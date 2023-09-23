@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ComicWorld/static/css/main.f0ef91ac.css",
+    "main.js": "/ComicWorld/static/js/main.b6ec482c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ComicWorld/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/ComicWorld/index.html",
+    "main.f0ef91ac.css.map": "/ComicWorld/static/css/main.f0ef91ac.css.map",
+    "main.b6ec482c.js.map": "/ComicWorld/static/js/main.b6ec482c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ComicWorld/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0ef91ac.css",
+    "static/js/main.b6ec482c.js"
+  ]
+}
